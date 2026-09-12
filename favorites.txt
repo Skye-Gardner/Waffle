@@ -7,3 +7,4 @@ Holloween
 History
 Computers
 Game making
+Art
